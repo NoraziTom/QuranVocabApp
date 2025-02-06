@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198372209855",
+    "project_id": "quranvocabapp",
+    "storage_bucket": "quranvocabapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198372209855:android:c11a1e0bbcfe309920020a",
+        "android_client_info": {
+          "package_name": "com.suterahijau.quranvocabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198372209855-gfdn454mauipapjhs896hudf8icagldb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suterahijau.quranvocabapp",
+            "certificate_hash": "2e2b3b0ab151b001a48b2975d091db6a47e5e827"
+          }
+        },
+        {
+          "client_id": "198372209855-c0mqrnaerjfd7tedqhjvdbpbr4ftb1ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8pJuhfzD-akJKH35G5uidKfHW45eTss0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198372209855-c0mqrnaerjfd7tedqhjvdbpbr4ftb1ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

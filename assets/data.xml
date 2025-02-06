@@ -1,0 +1,93 @@
+<words>
+    <word>
+        <id>1</id>
+        <wordText>نور</wordText>
+        <wordTranslation>Light</wordTranslation>
+        <wordTransliteration>Nur</wordTransliteration>
+        <wordRoot>ن و ر</wordRoot>
+        <ayatTranslation>Allah is the Light of the heavens and the earth.</ayatTranslation>
+        <ayatTransliteration>Allahu Noor Al-Samawati Wal-Ard</ayatTransliteration>
+        <exampleAyat>الله نور السماوات والأرض</exampleAyat>
+        <surah>(Surah An-Nur 24:35)</surah>
+        <relatedWords>2,3,5</relatedWords>
+    </word>
+    
+    <word>
+        <id>2</id>
+        <wordText>رحمة</wordText>
+        <wordTranslation>Mercy</wordTranslation>
+        <wordTransliteration>Rah-mah</wordTransliteration>
+        <wordRoot>ر ح م</wordRoot>
+        <ayatTranslation>My mercy encompasses all things.</ayatTranslation>
+        <ayatTransliteration>Wa Rahmati Wasi’at Kulla Shay</ayatTransliteration>
+        <exampleAyat>ورحمتي وسعت كل شيء</exampleAyat>
+        <surah>(Surah Al-A’raf 7:156)</surah>
+        <relatedWords>1,4,6</relatedWords>
+    </word>
+
+    <word>
+        <id>3</id>
+        <wordText>علم</wordText>
+        <wordTranslation>Knowledge</wordTranslation>
+        <wordTransliteration>‘Ilm</wordTransliteration>
+        <wordRoot>ع ل م</wordRoot>
+        <ayatTranslation>Indeed, Allah is the All-Knowing.</ayatTranslation>
+        <ayatTransliteration>Inna Allah Huwa Al-‘Aleem</ayatTransliteration>
+        <exampleAyat>إِنَّ اللَّهَ هُوَ الْعَلِيمُ</exampleAyat>
+        <surah>(Surah Al-Baqarah 2:32)</surah>
+        <relatedWords>1,5,7</relatedWords>
+    </word>
+
+    <word>
+        <id>4</id>
+        <wordText>كتاب</wordText>
+        <wordTranslation>Book</wordTranslation>
+        <wordTransliteration>Kitab</wordTransliteration>
+        <wordRoot>ك ت ب</wordRoot>
+        <ayatTranslation>The Clear Book.</ayatTranslation>
+        <ayatTransliteration>Al-Kitab Al-Mubeen</ayatTransliteration>
+        <exampleAyat>الكتاب المبين</exampleAyat>
+        <surah>(Surah Al-Dukhan 44:2)</surah>
+        <relatedWords>2,6</relatedWords>
+    </word>
+
+    <word>
+        <id>5</id>
+        <wordText>صبر</wordText>
+        <wordTranslation>Patience</wordTranslation>
+        <wordTransliteration>Sabr</wordTransliteration>
+        <wordRoot>ص ب ر</wordRoot>
+        <ayatTranslation>Indeed, Allah is with the patient.</ayatTranslation>
+        <ayatTransliteration>Innallaha Ma’a As-Sabireen</ayatTransliteration>
+        <exampleAyat>إِنَّ اللَّهَ مَعَ الصَّابِرِينَ</exampleAyat>
+        <surah>(Surah Al-Baqarah 2:153)</surah>
+        <relatedWords>1,3,7</relatedWords>
+    </word>
+
+    <word>
+        <id>6</id>
+        <wordText>حق</wordText>
+        <wordTranslation>Truth</wordTranslation>
+        <wordTransliteration>Haqq</wordTransliteration>
+        <wordRoot>ح ق ق</wordRoot>
+        <ayatTranslation>The truth is from your Lord.</ayatTranslation>
+        <ayatTransliteration>Al-Haqq Min Rabbik</ayatTransliteration>
+        <exampleAyat>الْحَقُّ مِنْ رَبِّكَ</exampleAyat>
+        <surah>(Surah Al-Baqarah 2:147)</surah>
+        <relatedWords>2,4</relatedWords>
+    </word>
+
+    <word>
+        <id>7</id>
+        <wordText>سلام</wordText>
+        <wordTranslation>Peace</wordTranslation>
+        <wordTransliteration>Salam</wordTransliteration>
+        <wordRoot>س ل م</wordRoot>
+        <ayatTranslation>Peace! A word from a Merciful Lord.</ayatTranslation>
+        <ayatTransliteration>Salamun Qawlan Min Rabbir Raheem</ayatTransliteration>
+        <exampleAyat>سَلَامٌ قَوْلًا مِّن رَّبٍّ رَّحِيمٍ</exampleAyat>
+        <surah>(Surah Yaseen 36:58)</surah>
+        <relatedWords>3,5</relatedWords>
+    </word>
+
+</words>
